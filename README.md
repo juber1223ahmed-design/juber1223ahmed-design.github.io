@@ -1,2 +1,2 @@
-# juber1223ahmed-design.github.io
+# dev computer.github.io
 My personal website
